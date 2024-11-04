@@ -1,9 +1,20 @@
-# React + Vite
+# Brand Landing Page - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Brand Landing Page](image.tiff)
 
-Currently, two official plugins are available:
+This is a minimal brand landing page project built with React, Vite, and basic HTML/CSS/JSX. It’s designed as a single-page static site, making it an ideal starting project for React beginners. The setup uses **Vite** for fast development with HMR (Hot Module Replacement) and **ESLint** for code quality checks.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# brand_landing_page_react
+## Features
+
+- **React**: A single-page application using React components.
+- **Vite**: Quick bundling and Hot Module Replacement.
+- **ESLint**: Basic linting rules for consistent code quality.
+- **CSS Styling**: Simple CSS for styling the page.
+- **JSX Structure**: All code is written in a single file for simplicity.
+
+## Installation
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/yourusername/brand_landing_page_react.git
+   cd brand_landing_page_react
