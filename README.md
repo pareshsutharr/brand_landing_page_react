@@ -1,6 +1,6 @@
 # Brand Landing Page - React
 
-![Brand Landing Page](image.tiff)
+![Brand Landing Page](image.png)
 
 This is a minimal brand landing page project built with React, Vite, and basic HTML/CSS/JSX. It’s designed as a single-page static site, making it an ideal starting project for React beginners. The setup uses **Vite** for fast development with HMR (Hot Module Replacement) and **ESLint** for code quality checks.
 
